@@ -1,8 +1,7 @@
-# Tez-Calismasi
 
 ## Tez Konusu: Makine Ogrenme Metotları ile Fon Fiyat Tahmini
 
-* ### Tez Bolumler
+* ### Bolumler
   1. #### Giris 
   2. #### Literatur Arastirmasi
   3. #### Metot - Kullanilan Makine Ogrenme Algoritmalari
@@ -20,10 +19,10 @@
       2. ###### YSA ile model kurma ve optimizasyon
   5. #### Sonuclar ve Gelecek Calismalar
 
-* ### Tez Uygulama
+* ### Uygulama
   1. #### Veri Isleme Kodlari
   2. #### Model Gelistirme Kodlari
 
-* ### Tez Teknik Altyapı
+* ### Teknik Altyapı
   1. #### Git,Github
   2. #### Pytone3,Spyder,JupyterLab
